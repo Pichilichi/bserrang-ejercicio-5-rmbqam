@@ -3,7 +3,7 @@
 
 let a: number;
 let b: String;
-let c: Boolean, number;
+let c: Boolean;
 
 a = 5;
 b = "texto";
